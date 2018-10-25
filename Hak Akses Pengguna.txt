@@ -1,0 +1,26 @@
+Hak Akses Pengguna Sistem Informasi Akademik Sekolah
+-----------------------------------------------------
+Berikut ini adalah hak akses untuk bisa login ke aplikasi : 
+Admin
+Username : nuris123
+Password : nuris123
+
+Guru : 
+username : udin123
+password : udin123
+
+Masih banyak yang perlu dikembangkan lagi dari source code ini,
+jika ingin mempelajari lebih lanjut bisa order DVD Tutorial nya,
+dari mulai tahap instalasi sampai selesai saya bahas disana
+
+
+https://belajarphp.net/product/sistem-informasi-sekolah/
+
+
+Salam Hormat
+
+
+Nuris Akbar SST
+WWW.Belajarphp.Net
+Email    : nuris.akbar@gmail.com
+Whatapps : 089699935552
